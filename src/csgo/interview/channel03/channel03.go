@@ -7,6 +7,7 @@ import (
 
 //轮流打印字母和数字
 
+// 两个channel  一个控制字符 一个控制数字
 func main() {
 	strChan := make(chan int, 1)
 	numChan := make(chan int, 1)

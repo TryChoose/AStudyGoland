@@ -6,6 +6,10 @@ import (
 )
 
 // 交替打印数字和字母
+// 两个channel  一个控制字符 一个控制数字
+/*
+ Done后面就不能使用Add
+*/
 func main() {
 	l, n := make(chan bool), make(chan bool)
 	wait := sync.WaitGroup{}

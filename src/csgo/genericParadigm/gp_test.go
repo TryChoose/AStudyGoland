@@ -79,6 +79,7 @@ func (s myTypeSlice[T]) Sum() T {
 	}
 	return sum
 }
+
 func TestSum(t *testing.T) {
 	m := make(myTypeSlice[int], 0)
 	for i := 0; i < 10; i++ {
