@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75285ab0-9b3c-4c4f-9d12-b0f8e6a8a892" name="Changes" comment="">
+    <list default="true" id="75285ab0-9b3c-4c4f-9d12-b0f8e6a8a892" name="Changes" comment="更新md文档">
+      <change afterPath="$PROJECT_DIR$/src/csgo/Base/goroutine/03goroutine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csgo/Base/goroutine/04goroutine.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csgo/genericParadigm/gp_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/csgo/genericParadigm/gp_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csgo/interview/channel03/04.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/csgo/interview/channel03/04.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csgo/Base/channel/06sync/01sync_once.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/csgo/Base/channel/06sync/01sync_once.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/csgo/interview/channel03/channel03.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/csgo/interview/channel03/channel03.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,52 +80,44 @@
       <recent name="E:\AStudyGoland\src\csgo\interview\contextExit" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestAdd in csgo/genericParadigm">
-    <configuration name="TestAdd in csgo/genericParadigm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build csgo/interview/channel03 (1)">
+    <configuration name="go build csgo/Base/goroutine (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="AStudyGoland" />
-      <working_directory value="$PROJECT_DIR$/src/csgo/genericParadigm" />
-      <kind value="PACKAGE" />
-      <package value="csgo/genericParadigm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="csgo/Base/goroutine" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestAdd\E$" />
+      <filePath value="$PROJECT_DIR$/src/csgo/Base/goroutine/01goroutine.go" />
       <method v="2" />
     </configuration>
-    <configuration name="TestChannelGp in csgo/genericParadigm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build csgo/Base/goroutine" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="AStudyGoland" />
-      <working_directory value="$PROJECT_DIR$/src/csgo/genericParadigm" />
-      <kind value="PACKAGE" />
-      <package value="csgo/genericParadigm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="csgo/Base/goroutine" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestChannelGp\E$" />
+      <filePath value="$PROJECT_DIR$/src/csgo/Base/goroutine/04goroutine.go" />
       <method v="2" />
     </configuration>
-    <configuration name="TestFunc in csgo/genericParadigm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build csgo/interview/channel03 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="AStudyGoland" />
-      <working_directory value="$PROJECT_DIR$/src/csgo/genericParadigm" />
-      <kind value="PACKAGE" />
-      <package value="csgo/genericParadigm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="csgo/interview/channel03" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestFunc\E$" />
+      <filePath value="$PROJECT_DIR$/src/csgo/interview/channel03/04.go" />
       <method v="2" />
     </configuration>
-    <configuration name="TestInterfaceGp in csgo/genericParadigm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build csgo/interview/channel03" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="AStudyGoland" />
-      <working_directory value="$PROJECT_DIR$/src/csgo/genericParadigm" />
-      <kind value="PACKAGE" />
-      <package value="csgo/genericParadigm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="csgo/interview/channel03" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestInterfaceGp\E$" />
+      <filePath value="$PROJECT_DIR$/src/csgo/interview/channel03/channel03.go" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSum in csgo/genericParadigm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSliceGp in csgo/genericParadigm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="AStudyGoland" />
       <working_directory value="$PROJECT_DIR$/src/csgo/genericParadigm" />
       <kind value="PACKAGE" />
@@ -132,23 +125,23 @@
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestSum\E$" />
+      <pattern value="^\QTestSliceGp\E$" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Test.TestAdd in csgo/genericParadigm" />
-      <item itemvalue="Go Test.TestChannelGp in csgo/genericParadigm" />
-      <item itemvalue="Go Test.TestFunc in csgo/genericParadigm" />
-      <item itemvalue="Go Test.TestInterfaceGp in csgo/genericParadigm" />
-      <item itemvalue="Go Test.TestSum in csgo/genericParadigm" />
+      <item itemvalue="Go Build.go build csgo/Base/goroutine" />
+      <item itemvalue="Go Build.go build csgo/Base/goroutine (1)" />
+      <item itemvalue="Go Build.go build csgo/interview/channel03" />
+      <item itemvalue="Go Build.go build csgo/interview/channel03 (1)" />
+      <item itemvalue="Go Test.TestSliceGp in csgo/genericParadigm" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestAdd in csgo/genericParadigm" />
-        <item itemvalue="Go Test.TestFunc in csgo/genericParadigm" />
-        <item itemvalue="Go Test.TestSum in csgo/genericParadigm" />
-        <item itemvalue="Go Test.TestChannelGp in csgo/genericParadigm" />
-        <item itemvalue="Go Test.TestInterfaceGp in csgo/genericParadigm" />
+        <item itemvalue="Go Build.go build csgo/interview/channel03 (1)" />
+        <item itemvalue="Go Build.go build csgo/interview/channel03" />
+        <item itemvalue="Go Build.go build csgo/Base/goroutine" />
+        <item itemvalue="Go Build.go build csgo/Base/goroutine (1)" />
+        <item itemvalue="Go Test.TestSliceGp in csgo/genericParadigm" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +238,9 @@
     <MESSAGE value="面试题" />
     <MESSAGE value="面试题 channel 打印1-3" />
     <MESSAGE value="学习泛型" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习泛型" />
+    <MESSAGE value="init" />
+    <MESSAGE value="更新md文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新md文档" />
   </component>
   <component name="VgoProject">
     <environment>
@@ -254,181 +249,5 @@
       </map>
     </environment>
     <settings-migrated>true</settings-migrated>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>46</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>47</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>45</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>44</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>42</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>40</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>43</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>41</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>38</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>39</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>37</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>35</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>36</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>34</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>33</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>32</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>31</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>30</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>29</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>28</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>27</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>26</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>25</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>24</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>16</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>18</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>19</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>20</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>23</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>22</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>21</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>17</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csgo/interview/channel03/04.go</url>
-          <line>14</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
