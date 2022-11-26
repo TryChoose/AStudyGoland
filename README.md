@@ -20,7 +20,3 @@
 1. pkg是一些依赖 刚开始并没有使用到 go module 
 2. src是学习的原文文件 
     csgo 包含的是学习内容  github.com 也是依赖包 util 是常用的工具类
-=======
-# 学习golang
-=======
-# 学习golang
