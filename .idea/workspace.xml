@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75285ab0-9b3c-4c4f-9d12-b0f8e6a8a892" name="Changes" comment="更新md文档">
-      <change afterPath="$PROJECT_DIR$/src/csgo/Base/goroutine/03goroutine.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csgo/Base/goroutine/04goroutine.go" afterDir="false" />
+    <list default="true" id="75285ab0-9b3c-4c4f-9d12-b0f8e6a8a892" name="Changes" comment="无变化">
+      <change afterPath="$PROJECT_DIR$/src/csgo/Base/select/01.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csgo/Base/channel/06sync/01sync_once.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/csgo/Base/channel/06sync/01sync_once.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csgo/interview/channel03/channel03.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/csgo/interview/channel03/channel03.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,35 +40,38 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2HLPZ0Kzf49G0eufGWTuEnVuZhx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;configurable..is.expanded&quot;: &quot;false&quot;,
-    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/AStudyGoland&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.gitee.ui.GiteeSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "configurable..is.expanded": "false",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "E:/AStudyGoland",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\AStudyGoland\src\csgo\interview\channel03" />
@@ -80,7 +80,15 @@
       <recent name="E:\AStudyGoland\src\csgo\interview\contextExit" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build csgo/interview/channel03 (1)">
+  <component name="RunManager" selected="Go Build.go build 01runtime_demo.go">
+    <configuration name="go build 01runtime_demo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AStudyGoland" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/csgo/Base/runtime/01runtime_demo.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build csgo/Base/goroutine (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="AStudyGoland" />
       <working_directory value="$PROJECT_DIR$" />
@@ -117,31 +125,20 @@
       <filePath value="$PROJECT_DIR$/src/csgo/interview/channel03/channel03.go" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSliceGp in csgo/genericParadigm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="AStudyGoland" />
-      <working_directory value="$PROJECT_DIR$/src/csgo/genericParadigm" />
-      <kind value="PACKAGE" />
-      <package value="csgo/genericParadigm" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestSliceGp\E$" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Go Build.go build 01runtime_demo.go" />
       <item itemvalue="Go Build.go build csgo/Base/goroutine" />
       <item itemvalue="Go Build.go build csgo/Base/goroutine (1)" />
       <item itemvalue="Go Build.go build csgo/interview/channel03" />
       <item itemvalue="Go Build.go build csgo/interview/channel03 (1)" />
-      <item itemvalue="Go Test.TestSliceGp in csgo/genericParadigm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 01runtime_demo.go" />
         <item itemvalue="Go Build.go build csgo/interview/channel03 (1)" />
         <item itemvalue="Go Build.go build csgo/interview/channel03" />
         <item itemvalue="Go Build.go build csgo/Base/goroutine" />
         <item itemvalue="Go Build.go build csgo/Base/goroutine (1)" />
-        <item itemvalue="Go Test.TestSliceGp in csgo/genericParadigm" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +237,9 @@
     <MESSAGE value="学习泛型" />
     <MESSAGE value="init" />
     <MESSAGE value="更新md文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新md文档" />
+    <MESSAGE value="理解通信实现共享内存" />
+    <MESSAGE value="无变化" />
+    <option name="LAST_COMMIT_MESSAGE" value="无变化" />
   </component>
   <component name="VgoProject">
     <environment>
