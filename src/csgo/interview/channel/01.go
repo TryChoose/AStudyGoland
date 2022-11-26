@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//多携程计算和
+// 多携程计算和
 var ch = make(chan int, 2)
 
 func sum(ch chan int, a []int) {
@@ -18,4 +18,6 @@ func main() {
 	go sum(ch, a[len(a)/2:])
 	s1, s2 := <-ch, <-ch
 	fmt.Println(s1 + s2)
+	fmt.Println(s1 + s2)
+
 }
