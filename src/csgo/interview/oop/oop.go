@@ -4,8 +4,15 @@ import "fmt"
 
 //go语言实现面向对象
 
+<<<<<<< HEAD
 // 面向对象实现
 // @Description: 封装和继承是由 结构体实现 多态由接口实现
+=======
+//
+//  面向对象实现
+//  @Description: 封装和继承是由 结构体实现 多态由接口实现
+//
+>>>>>>> 9c616fa... 测试
 type A interface {
 	setName(name string)
 	eat()
@@ -23,7 +30,11 @@ type Dog struct {
 	weight int
 }
 
+<<<<<<< HEAD
 // Dog和Cat都可以调用
+=======
+//Dog和Cat都可以调用
+>>>>>>> 9c616fa... 测试
 func NewAnimal() *Animal {
 	return &Animal{}
 }
@@ -64,6 +75,10 @@ func main() {
 	fmt.Println(cat.age)
 	come(&dog)
 	come(&cat)
+<<<<<<< HEAD
 	//come(/)
 	fmt.Println("张三!")
+=======
+
+>>>>>>> 9c616fa... 测试
 }
