@@ -5,14 +5,20 @@ import "fmt"
 //go语言实现面向对象
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 // 面向对象实现
 // @Description: 封装和继承是由 结构体实现 多态由接口实现
 =======
+=======
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
 //
 //  面向对象实现
 //  @Description: 封装和继承是由 结构体实现 多态由接口实现
 //
+<<<<<<< HEAD
 >>>>>>> 9c616fa... 测试
+=======
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
 type A interface {
 	setName(name string)
 	eat()
@@ -31,10 +37,14 @@ type Dog struct {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 // Dog和Cat都可以调用
 =======
 //Dog和Cat都可以调用
 >>>>>>> 9c616fa... 测试
+=======
+//Dog和Cat都可以调用
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
 func NewAnimal() *Animal {
 	return &Animal{}
 }
@@ -76,9 +86,13 @@ func main() {
 	come(&dog)
 	come(&cat)
 <<<<<<< HEAD
+<<<<<<< HEAD
 	//come(/)
 	fmt.Println("张三!")
 =======
 
 >>>>>>> 9c616fa... 测试
+=======
+
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
 }

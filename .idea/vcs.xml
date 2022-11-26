@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+=======
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
     <mapping directory="$PROJECT_DIR$/src/github.com/cespare/xxhash" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/dgryski/go-rendezvous" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/go-redis/redis" vcs="Git" />

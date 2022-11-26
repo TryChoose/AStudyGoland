@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"sync"
 )
 
@@ -52,6 +53,8 @@ func main() {
 	}
 	wg.Wait()
 =======
+=======
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
 	"sync/atomic"
 	"time"
 )
@@ -79,5 +82,8 @@ func main() {
 		}(i)
 	}
 	SpinLock(4, func() {})
+<<<<<<< HEAD
 >>>>>>> 9c616fa... 测试
+=======
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
 }

@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="75285ab0-9b3c-4c4f-9d12-b0f8e6a8a892" name="Changes" comment=" 无变化">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="75285ab0-9b3c-4c4f-9d12-b0f8e6a8a892" name="Changes" comment="" />
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +25,7 @@
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../go1.19.3" />
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -32,6 +37,9 @@
         <option name="url" value="git@github.com:/TryChoose/A.git" />
       </UrlAndAccount>
     </option>
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
   </component>
   <component name="GoLibraries">
     <option name="urls">
@@ -41,15 +49,21 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/src/csgo/interview/channel03/channel03.go" root0="FORCE_HIGHLIGHTING" />
+=======
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
     <setting file="file://$PROJECT_DIR$/../go1.16.15/src/builtin/builtin.go" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
+=======
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
   <component name="ProjectId" id="2HLPZ0Kzf49G0eufGWTuEnVuZhx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -75,8 +89,12 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+<<<<<<< HEAD
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "sshConsole"
+=======
+    "settings.editor.selected.configurable": "go.vgo"
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
   }
 }]]></component>
   <component name="RecentsManager">
@@ -87,6 +105,7 @@
       <recent name="E:\AStudyGoland\src\csgo\interview\contextExit" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Go Build.go build 01runtime_demo.go">
     <configuration name="go build 01runtime_demo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="AStudyGoland" />
@@ -123,6 +142,9 @@
       <filePath value="$PROJECT_DIR$/src/csgo/interview/channel03/04.go" />
       <method v="2" />
     </configuration>
+=======
+  <component name="RunManager">
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
     <configuration name="go build csgo/interview/channel03" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="AStudyGoland" />
       <working_directory value="$PROJECT_DIR$" />
@@ -132,6 +154,7 @@
       <filePath value="$PROJECT_DIR$/src/csgo/interview/channel03/channel03.go" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <list>
       <item itemvalue="Go Build.go build 01runtime_demo.go" />
       <item itemvalue="Go Build.go build csgo/Base/goroutine" />
@@ -146,6 +169,11 @@
         <item itemvalue="Go Build.go build csgo/interview/channel03" />
         <item itemvalue="Go Build.go build csgo/Base/goroutine" />
         <item itemvalue="Go Build.go build csgo/Base/goroutine (1)" />
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build csgo/interview/channel03" />
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
       </list>
     </recent_temporary>
   </component>
@@ -159,16 +187,20 @@
         <entry key="MAIN">
           <value>
             <State>
+<<<<<<< HEAD
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+=======
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
+<<<<<<< HEAD
                         <option value="HEAD" />
                       </list>
                     </value>
@@ -202,6 +234,9 @@
                     <value>
                       <list>
                         <option value="$PROJECT_DIR$" />
+=======
+                        <option value="main" />
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
                       </list>
                     </value>
                   </entry>
@@ -212,6 +247,7 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -238,11 +274,14 @@
         </entry>
       </map>
     </option>
+=======
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/../" />
     </ignored-roots>
+<<<<<<< HEAD
     <MESSAGE value="Initial commit" />
     <MESSAGE value="面试题" />
     <MESSAGE value="面试题 channel 打印1-3" />
@@ -253,6 +292,8 @@
     <MESSAGE value="无变化" />
     <MESSAGE value=" 无变化" />
     <option name="LAST_COMMIT_MESSAGE" value=" 无变化" />
+=======
+>>>>>>> 41880d2a61d67bbf8a98c7c0711e733b45aa8b6c
   </component>
   <component name="VgoProject">
     <environment>
