@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75285ab0-9b3c-4c4f-9d12-b0f8e6a8a892" name="Changes" comment="无变化">
+    <list default="true" id="75285ab0-9b3c-4c4f-9d12-b0f8e6a8a892" name="Changes" comment=" 无变化">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable"
+    "settings.editor.selected.configurable": "sshConsole"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -159,6 +159,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -246,7 +251,8 @@
     <MESSAGE value="更新md文档" />
     <MESSAGE value="理解通信实现共享内存" />
     <MESSAGE value="无变化" />
-    <option name="LAST_COMMIT_MESSAGE" value="无变化" />
+    <MESSAGE value=" 无变化" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 无变化" />
   </component>
   <component name="VgoProject">
     <environment>
